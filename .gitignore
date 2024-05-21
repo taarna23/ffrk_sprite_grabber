@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+*.json
+*.png
+/FFRK_Sprite_Grabber/bin
+/FFRK_Sprite_Grabber/obj
